@@ -1,13 +1,13 @@
 def capital_case(x):
     return x.capitalize()
 
-def test_case1():
+def Create_Job():
     assert capital_case('semaphore') == 'Semaphore'
 
-def test_case2():
+def Create_Sub_Job():
     assert capital_case('semaphore') == 'Semaphore'
 
-def test_case3():
+def Update_Job():
     assert capital_case('semaphore') == 'Semaphore'
 
 def test_case4():
